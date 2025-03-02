@@ -1,0 +1,14 @@
+# List of Augmented Operators
+# Operator	Example	Equivalent To
+# +=	a += b	 a = a + b
+# -=	a -= b	 a = a - b
+# *=	a *= b	 a = a * b
+# /=	a /= b	 a = a / b
+# //=	a //= b	 a = a // b
+# %=	a %= b	 a = a % b
+# **=	a **= b	 a = a ** b
+# &=	a &= b	 a = a & b
+# `	=`	`a
+# ^=	a ^= b	 a = a ^ b
+# >>=	a >>= b	 a = a >> b
+# <<=	a <<= b	 a = a << b
