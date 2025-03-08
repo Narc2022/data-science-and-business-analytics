@@ -7,3 +7,14 @@ def multiply(*numbers):
 
 
 multiply(2, 3, 4, 5)
+
+# output => (2, 3, 4, 5)
+
+
+# Iterate above tuple
+def iterateXArgs(*numbers):
+    for number in numbers:
+        print(number)
+
+
+iterateXArgs(2, 3, 4, 5)
